@@ -1,31 +1,69 @@
-![logo](https://github.com/AsifAlif/AsifAlif/blob/main/Banner.jpeg)
+![banner](https://github.com/AsifAlif/AsifAlif/blob/main/Banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Asif Alif</h1>
-<h3 align="center">A passionate Cyber Security enthusiastic from Bangladesh</h3>
+<h3 align="center">Cybersecurity Researcher · Computer Science PhD Student @ University of Wyoming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifalif&label=Profile%20views&color=0e75b6&style=flat" alt="asifalif" /> </p>
-
-- 🔭 I’m currently working on **developing my knowledge in the cyber security domains.**
-
-- 🌱 I’m currently learning **VAPT, Digital Forensics, Malware analysis, Cryptography, Reverse engineering.**
-
-- 👯 I’m looking to collaborate on **penetration testing and Digital Forensics projects with a great team.**
-
-- 🤝 I’m looking for help with **learning different subdomains of cyber security and advance security domains tools.**
-
-- ⚡ My Goal is to contribute **in developing a secure Digital world.**
-
-- 📫 How to reach me **asifalif97@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asif-alif-8064921aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-alif-8064921aa" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asifalif&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifalif&show_icons=true&locale=en&layout=compact" alt="asifalif" /></p>
+I am a Computer Science PhD student at the **University of Wyoming**, with a research background in cybersecurity spanning **Post-Quantum Cryptography, AI Security, Network & IoT Security, and Digital Forensics**. My current doctoral work is in **Quantum Information Theory**, which I combine with hands-on security experience to work toward trustworthy, quantum-era systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifalif&show_icons=true&locale=en" alt="asifalif" /></p>
+### 🔬 Research Interests
+`Post-Quantum Cryptography` · `AI Security` · `Network & IoT Security` · `Digital Forensics` · `Quantum Information Theory`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifalif&" alt="asifalif" /></p>
+### 🎯 Currently
+- 🔭 Doctoral research in **Quantum Information Theory** (complementary quantum correlations, mutually unbiased bases, entropic uncertainty relations).
+- 📄 Published a **book chapter (CRC Press)** and an **IEEE conference paper (i-COSTE 2025)**, with further work under review.
+- 🏆 Recipient of the **ICT Division M.Sc. Thesis Fellowship**, Government of Bangladesh.
+- 🛡️ **100+ Capture The Flag competitions**; **Top 1% on TryHackMe**; trained **170+ students** in offensive and defensive security.
+- 🌱 Seeking a **fully funded PhD position** and research collaborations in cybersecurity.
+- 📫 Reach me at **aalif@uwyo.edu** or **asifalif97@gmail.com**
+
+### 📚 Selected Publications
+- **A. Alif** et al., *Securing Healthcare IoT in the Quantum Age: Challenges and Mitigation Strategies.* Book chapter, *Cybersecurity for Internet of Health Things*, CRC Press, 2025.
+- **A. Alif** et al., *Quantum Threat Defense: A Framework for Migrating IoT-Based Healthcare Systems.* IEEE i-COSTE 2025.
+
+### 🧪 Featured Research & Projects
+| Project | Description |
+|---|---|
+| [A Secure Erasure Code-Based Cloud Storage System](https://github.com/AsifAlif) | Encrypts, erasure-codes, re-encrypts, and distributes data across servers — confidential even if one server is breached (final-year thesis). |
+| [Gh0st RAT Intrusion Forensics](https://github.com/AsifAlif) | Reconstructs a RAT intrusion by decoding C2 traffic and correlating it with memory forensics in Volatility. |
+| [Network Artifacts Forensics](https://github.com/AsifAlif) | Investigates SSH brute-forcing, a Wi-Fi handshake-capture attack, and cleartext credential exposure. |
+| [Digital Forensics & Cybercrime Investigation](https://github.com/AsifAlif) | Disk and mobile forensics in Autopsy: signature analysis, file carving, metadata, and keyword search. |
+| [DDoS Detection & Mitigation (SDN)](https://github.com/AsifAlif) | Real-time DDoS detection and mitigation with Ryu, OpenFlow, and sFlow-RT telemetry. |
+
+### 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+<br>
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
+<br>
+*Also:* Volatility · Autopsy · FTK Imager · Nessus · OpenVAS · SQLmap · Hydra · Mininet
+
+### 🔗 Connect
+<p align="left">
+<a href="https://linkedin.com/in/asif-alif-8064921aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+### 📊 GitHub Stats
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifalif&show_icons=true&locale=en" alt="stats" />
+</p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifalif&show_icons=true&locale=en&layout=compact" alt="top langs" />
+</p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifalif&" alt="streak" />
+</p>
