@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Asif Alif</h1>
-<h3 align="center">Cybersecurity Researcher · Computer Science PhD Student @ University of Wyoming</h3>
+<h3 align="center">A passionate Cybersecurity Researcher
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asifalif&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
