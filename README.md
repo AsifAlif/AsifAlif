@@ -16,10 +16,10 @@ I am a Computer Science PhD student at the **University of Wyoming**, with a res
 
 ### 🎯 Currently
 - 🔭 Doctoral research in **Quantum Information Theory** (complementary quantum correlations, mutually unbiased bases, entropic uncertainty relations).
+- 🔭Research Collaborator at BUBT Cyber Research Lab
 - 📄 Published a **book chapter (CRC Press)** and an **IEEE conference paper (i-COSTE 2025)**, with further work under review.
 - 🏆 Recipient of the **ICT Division M.Sc. Thesis Fellowship**, Government of Bangladesh.
 - 🛡️ **100+ Capture The Flag competitions**; **Top 1% on TryHackMe**; trained **170+ students** in offensive and defensive security.
-- 🌱 Seeking a **fully funded PhD position** and research collaborations in cybersecurity.
 - 📫 Reach me at **aalif@uwyo.edu** or **asifalif97@gmail.com**
 
 ### 📚 Selected Publications
