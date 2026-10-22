@@ -9,7 +9,7 @@
 
 ---
 
-I am a Computer Science PhD student at the **University of Wyoming**, with a research background in cybersecurity spanning **Post-Quantum Cryptography, AI Security, Network & IoT Security, and Digital Forensics**. My current doctoral work is in **Quantum Information Theory**, which I combine with hands-on security experience to work toward trustworthy, quantum-era systems.
+I am a Computer Science PhD student at the **University of Wyoming**, with a research background in cybersecurity spanning **Post-Quantum Cryptography, AI Security, Network & IoT Security, Digital Forensics and Cyber-crime Investigations**. 
 
 ### 🔬 Research Interests
 `Post-Quantum Cryptography` · `AI Security` · `Network & IoT Security` · `Digital Forensics` · `Quantum Information Theory`
