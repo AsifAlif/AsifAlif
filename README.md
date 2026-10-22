@@ -14,10 +14,12 @@ I am a Computer Science PhD student at the **University of Wyoming**, with a res
 ### 🔬 Research Interests
 `Post-Quantum Cryptography` · `AI Security` · `Network & IoT Security` · `Digital Forensics` · `Cyber-crime Investigations`
 
-### 🔗 Connect
+
+### 🔗 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/asif-alif-8064921aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
+
 
 ### ⭐ Highlights
 - 🔭 Doctoral research in **Quantum Information Theory** (complementary quantum correlations, mutually unbiased bases, entropic uncertainty relations).
