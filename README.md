@@ -1,4 +1,4 @@
-![banner](https://github.com/AsifAlif/AsifAlif/blob/main/Banner.jpeg)
+
 
 <h1 align="center">Hi 👋, I'm Asif Alif</h1>
 <h3 align="center">Cybersecurity Researcher · Computer Science PhD Student @ University of Wyoming</h3>
