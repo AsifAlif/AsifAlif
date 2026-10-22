@@ -26,15 +26,6 @@ I am a Computer Science PhD student at the **University of Wyoming**, with a res
 - **A. Alif** et al., *Securing Healthcare IoT in the Quantum Age: Challenges and Mitigation Strategies.* Book chapter, *Cybersecurity for Internet of Health Things*, CRC Press, 2025.
 - **A. Alif** et al., *Quantum Threat Defense: A Framework for Migrating IoT-Based Healthcare Systems.* IEEE i-COSTE 2025.
 
-### 🧪 Featured Research & Projects
-| Project | Description |
-|---|---|
-| [A Secure Erasure Code-Based Cloud Storage System](https://github.com/AsifAlif) | Encrypts, erasure-codes, re-encrypts, and distributes data across servers — confidential even if one server is breached (final-year thesis). |
-| [Gh0st RAT Intrusion Forensics](https://github.com/AsifAlif) | Reconstructs a RAT intrusion by decoding C2 traffic and correlating it with memory forensics in Volatility. |
-| [Network Artifacts Forensics](https://github.com/AsifAlif) | Investigates SSH brute-forcing, a Wi-Fi handshake-capture attack, and cleartext credential exposure. |
-| [Digital Forensics & Cybercrime Investigation](https://github.com/AsifAlif) | Disk and mobile forensics in Autopsy: signature analysis, file carving, metadata, and keyword search. |
-| [DDoS Detection & Mitigation (SDN)](https://github.com/AsifAlif) | Real-time DDoS detection and mitigation with Ryu, OpenFlow, and sFlow-RT telemetry. |
-
 ### 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
