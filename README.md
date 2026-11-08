@@ -22,7 +22,6 @@ I am a Computer Science M.S. student at the **University of Wyoming**, with a re
 
 
 ### ⭐ Highlights
-- 🔭 M.S. research in **Quantum Information Theory** (complementary quantum correlations, mutually unbiased bases, entropic uncertainty relations).
 - 🔭Research Collaborator at BUBT Cyber Research Lab
 - 📄 Published a **book chapter (CRC Press)** and an **IEEE conference paper (i-COSTE 2025)**, with further work under review.
 - 🏆 Recipient of the **ICT Division M.Sc. Thesis Fellowship**, Government of Bangladesh.
