@@ -9,7 +9,7 @@
 
 ---
 
-I am a Computer Science PhD student at the **University of Wyoming**, with a research background in cybersecurity spanning **Post-Quantum Cryptography, AI Security, Network & IoT Security, Digital Forensics and Cyber-crime Investigations**. 
+I am a Computer Science M.S. student at the **University of Wyoming**, with a research background in cybersecurity spanning **Post-Quantum Cryptography, AI Security, Network & IoT Security, Digital Forensics and Cyber-crime Investigations**. 
 
 ### 🔬 Research Interests
 `Post-Quantum Cryptography` · `AI Security` · `Network & IoT Security` · `Digital Forensics` · `Cyber-crime Investigations`
